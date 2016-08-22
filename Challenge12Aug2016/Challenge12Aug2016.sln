@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CampSecurity", "CampSecurity\CampSecurity.csproj", "{3611E388-ECCE-47B7-9717-77313CB1AB9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CampSecurity.Tests", "CampSecurity.Tests\CampSecurity.Tests.csproj", "{5B6EFC81-2288-4C53-A130-7A6F778B1FEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3611E388-ECCE-47B7-9717-77313CB1AB9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3611E388-ECCE-47B7-9717-77313CB1AB9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3611E388-ECCE-47B7-9717-77313CB1AB9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3611E388-ECCE-47B7-9717-77313CB1AB9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B6EFC81-2288-4C53-A130-7A6F778B1FEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B6EFC81-2288-4C53-A130-7A6F778B1FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B6EFC81-2288-4C53-A130-7A6F778B1FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B6EFC81-2288-4C53-A130-7A6F778B1FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
